@@ -1,0 +1,73 @@
+_Für den deutschen initialen Text nach unten scrollen_
+## Motivation inspired form data strategy germany
+At the Federal Environment Agency an “application laboratory → Artificial Intelligence and Big
+Data ”set up with the aim of developing data-based applications for achieving the sustainability goals and thus the cooperation between the federal and state governments in the
+To strengthen the environmental sector. Through the systematic use of AI processes for an improved **monitoring of the state of the environment
+(including on the basis of in situ, sensor and remote sensing data) the derivation of environmentally relevant measures should be advanced** as well as
+environmental enforcement is supported by the federal and state environmental administrations
+become. (BMU)
+**The problem here is that the existing data from stationary sensors is not sufficient for big data and artificial intelligence algorithms.**
+
+## What it does
+eco-data-swarm uses mobility to close the gaps in stationary measuring stations
+
+##How we will build the swarm
+The individual components of eco-data-swarm consist of an eco-data sensor box (IoT device), which can be easily attached to mobile systems, uses renewable energies for operation and is inexpensive to manufacture.
+
+## Challenges we ran into
+Data portals offer few options for interval-based data provision from many IoT devices.
+
+
+## What's next for eco-data-swarm Slack #3_100787_innovative-datennutzung
+Identify Use Cases
+- collect sensor data with public transport
+- collect sensor data for enviromental agriculture indoor/outdoor
+
+Identify Stakeholders
+- Ask for organisations in updateDeutschland slack
+- https://www.trier-mitgestalten.de/anregen/11614
+
+Setting up public organisation
+
+##Where to find us?
+email: eco.data.swarm@gmail.com
+github: https://github.com/eco-data-swarm
+youtube: https://www.youtube.com/channel/UC8DGCyGX11G7fci8wiex0zg
+updateDeutschland Slack: #3_100787_innovative-datennutzung
+
+## Inspiration aus der Datenstrategie der Bundesregierung
+Beim Umweltbundesamt wird ein „Anwendungslabor → Künstliche Intelligenz und Big
+Data“ mit dem Ziel eingerichtet, datenbasierte Anwendungen für das Erreichen der Nachhaltigkeitsziele zu entwickeln und so die Zusammenarbeit zwischen Bund und Ländern im
+Umweltbereich zu stärken. Durch eine systematische Nutzung von KI-Verfahren für ein verbessertes **Monitoring des Umweltzustandes
+(u.a. auf Basis von in situ-, Sensor- und Fernerkundungsdaten) sollen die Ableitung umweltrelevanter Maßnahmen vorangebracht** sowie
+der Umweltvollzug durch die Umweltverwaltungen des Bundes und der Länder unterstützt
+werden. (BMU)
+**Das Problem hierbei ist, dass die vorhandenen Daten durch stationäre Sensoren nicht ausreichend für Big Data und Künstliche Intelligenz Algorithmen sind.**
+
+## What it does
+eco-data-swarm verbindet die Mobilität des ÖVM's, um die Lücken der stationären Messstationen zu schließen. 
+## How we built it
+eco-data-swarm besteht in seiner Einzelkomponente aus einer Öko-Daten-Sensorbox(IoT-Device), die einfach auf ÖVM angebracht werden kann, selbst regenerative Energien zum Betrieb nutzt und kostengünstig in der Herstellung ist.
+Die Idee hinter der Box unterliegt der Creative Commons License
+https://creativecommons.org/licenses/by-nc-sa/2.0/de/
+## Challenges we ran into
+Daten-Portale bieten wenig Möglichkeiten für eine intervalbasierte Datenbereitstellung von vielen IoT-Geräten.
+
+## What's next for eco-data-swarm Slack #3_100787_innovative-datennutzung
+Identify Use Cases
+- collect sensor data with public transport
+- collect sensor data for enviromental agriculture indoor/outdoor
+
+Identify Stakeholders
+- Ask for organisations in updateDeutschland slack
+- https://www.trier-mitgestalten.de/anregen/11614
+
+Setting up public organisation
+
+##Where to find us?
+email: eco.data.swarm@gmail.com
+github: https://github.com/eco-data-swarm
+youtube: https://www.youtube.com/channel/UC8DGCyGX11G7fci8wiex0zg
+updateDeutschland Slack: #3_100787_innovative-datennutzung
+
+https://creativecommons.org/licenses/by-nc-sa/2.0/de/
